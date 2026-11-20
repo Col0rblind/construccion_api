@@ -188,3 +188,6 @@ try {
 - **Cifrado unidireccional con Salt:** Las contraseñas nunca se almacenan en texto plano; se utiliza `bcryptjs` con costo de cómputo 10.
 - **Manejo de CORS:** Permite integración con clientes web y frontend (React, Angular, Vue, aplicaciones móviles o Postman).
 - **Control de entrada:** Validación de campos obligatorios y longitud mínima de seguridad.
+
+##MI ENLACE DE GITHUB
+https://github.com/Col0rblind/construccion_api
